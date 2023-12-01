@@ -1,0 +1,2 @@
+# DecryptoAI
+AI-Detector
