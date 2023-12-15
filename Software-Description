@@ -1,0 +1,6 @@
+This program requires the user to either create a new account or log in with an already existing account ex. Google.
+It can be accessed directly on the website or downloaded as an app. The starting interface shows the user a drag and drop file or select file prompt, where the user can upload an IMG, Video or Sound file.
+FakeFinder processes the uploaded media and comes to a conclusion of whether the media the user has uploaded as AI Generated or not, it also points out if the media is not FULLY AI Generated and is just altered with AI
+and tells the user the part where the alteration happened.
+After the processing and concluding of the media the user uploaded, FakeFinder then mentions some well-known AI Generating Software that could be the source of the uploaded media.
+Finally, the site and application of FakeFinder have a Media History tab, which shows all the media the user has uploaded through their usage of FakeFinder and the concluding result of them.
